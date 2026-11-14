@@ -1,0 +1,14 @@
+train: /home/jupyter-svecwai/Subbarao/anamoly_rv/extracted_dataset/PKU-Market-PCB(Data
+  enhanced version)/train/images
+val: /home/jupyter-svecwai/Subbarao/anamoly_rv/extracted_dataset/PKU-Market-PCB(Data
+  enhanced version)/valid/images
+test: /home/jupyter-svecwai/Subbarao/anamoly_rv/extracted_dataset/PKU-Market-PCB(Data
+  enhanced version)/test/images
+nc: 6
+names:
+- Missing_hole
+- Mouse_bite
+- Open_circuit
+- Short
+- Spur
+- Spurious_copper

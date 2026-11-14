@@ -1,0 +1,11 @@
+train: /home/jupyter-svecwai/Subbarao/anamoly_rv/extracted_dataset/DeepPCB/train/images
+val: /home/jupyter-svecwai/Subbarao/anamoly_rv/extracted_dataset/DeepPCB/valid/images
+test: /home/jupyter-svecwai/Subbarao/anamoly_rv/extracted_dataset/DeepPCB/test/images
+nc: 6
+names:
+- open
+- short
+- mousebite
+- spur
+- copper
+- pin-hole
